@@ -6,10 +6,10 @@ DEBUG = True
 set_up_logging(level=logging.DEBUG)
 
 # bot
-PRODUCTION_TOKEN = '428370285:AAEfjY1o6DyLp1ysrz-OQBtgFYBwlmS-d1g'
-TEST_TOKEN = '428474365:AAGhkCJc3_mhKALgMX-4my45w53yRpxwAk8'
+PRODUCTION_TOKEN = '1313529550:AAF724ne2p_brnxYisdRRIyZu3FIn9q9v2Y'
+TEST_TOKEN = '1313529550:AAF724ne2p_brnxYisdRRIyZu3FIn9q9v2Y'
 API_TOKEN = TEST_TOKEN if DEBUG else PRODUCTION_TOKEN
-BOT = 'mycryptotestobot' if DEBUG else 'cryptosreda_bot'
+BOT = 'vazz1_robot' if DEBUG else 'vazz1_robot'
 
 # botan
 BOTAN_KEY = 'ca6f01fd-8b9f-40f5-a8bc-1551cf93ee6b'
@@ -40,7 +40,7 @@ DATABASE_HOST = 'localhost'
 DATABASE_PASSWORD = 'SFM09WfZjuRM8UhrH0PzXiUmwNIiMiNM'
 
 # groups
-ADMINS = [202628185, 272418334]
+ADMINS = [1274989405]
 
 # nodes
 # TODO: сменить порты!!!!!!!!!!!!!
